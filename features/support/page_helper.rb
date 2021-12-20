@@ -10,8 +10,6 @@ Token.new
 end
 
 
-def Dict
-Dict.new
-end
+
 
 end
