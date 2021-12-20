@@ -1,2 +1,0 @@
-class Sergio
-    end
